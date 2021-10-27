@@ -1,0 +1,123 @@
+﻿body {
+    background-image: url(https://c.tenor.com/aT15akmpipIAAAAC/naruto-uzumaki-sonriendo.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+header {
+    position: absolute;
+    width: 1505px;
+    height: 200px;
+    background-size: auto 200px;
+    color: white;
+    background-image: url(https://www.fotosparafacebook.es/wp-content/uploads/2016/04/naruto___biju_mode_by_onebill-d5qiiep-672x269.jpg);
+    background-repeat: repeat;
+}
+
+#inicio {
+    position: absolute;
+    left: 10px;
+    top: 10px;
+    width: 50px;
+    height: 20px;
+    color: white;
+}
+
+#b1 {
+    position: absolute;
+    left: 300px;
+    top: 70px;
+    width: 40px;
+    height: 20px;
+    color: white;
+    text-align: center;
+    background: rgb(83, 80, 80);
+}
+
+#b2 {
+    position: absolute;
+    left: 500px;
+    top: 70px;
+    width: 40px;
+    height: 20px;
+    color: white;
+    text-align: center;
+    background: rgb(83, 80, 80);
+}
+
+#b3 {
+    position: absolute;
+    left: 700px;
+    top: 70px;
+    width: 40px;
+    height: 20px;
+    color: white;
+    text-align: center;
+    background: rgb(83, 80, 80);
+}
+
+#b4 {
+    position: absolute;
+    left: 900px;
+    top: 70px;
+    width: 40px;
+    height: 20px;
+    color: white;
+    text-align: center;
+    background: rgb(83, 80, 80);
+}
+
+#b5 {
+    position: absolute;
+    left: 1100px;
+    top: 70px;
+    width: 40px;
+    height: 20px;
+    color: white;
+    text-align: center;
+    background: rgb(83, 80, 80);
+}
+
+#b7 {
+    position: absolute;
+    left: 1300px;
+    top: 70px;
+    width: 40px;
+    height: 20px;
+    color: white;
+    text-align: center;
+    background: rgb(83, 80, 80);
+}
+
+#titulo {
+    position: absolute;
+    left: 700px;
+    top: 300px;
+}
+
+#nombre {
+    position: absolute;
+    left: 600px;
+    top: 380px;
+    width: 120px;
+    border-radius: 5%;
+}
+
+#bt1{
+    position: absolute;
+    left: 780px;
+    top: 380px;
+    width: 100px;
+}
+
+#lista {
+    position: absolute;
+    left: 380px;
+    top: 430px;
+    width: 800px;
+    height: 400px;
+    background: black;
+    color: white;
+}
+
+

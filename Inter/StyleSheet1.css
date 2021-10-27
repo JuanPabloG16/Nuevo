@@ -1,0 +1,91 @@
+﻿body {
+    cursor: crosshair;
+    background-color: black;
+}
+
+header {
+    position: absolute;
+    background-image: url(https://cdn.andro4all.com/files/2021/08/Naruto-fondo.jpg);
+    background-repeat: no-repeat;
+    top: 100px;
+    left: 550px;
+    width: 1250px;
+    height: 800px;
+}
+
+#Nombre {
+    color: white;
+    position: absolute;
+    top: 620px;
+    left: 10px;
+}
+
+#Titulo {
+    position: absolute;
+    top: 180px;
+    left: 800px;
+}
+
+#Ejercicio1 {
+    position: absolute;
+    top: 280px;
+    left: 720px;
+    width: 100px;
+    height: 40px;
+}
+
+#Ejercicio2 {
+    position: absolute;
+    top: 350px;
+    left: 720px;
+    width: 100px;
+    height: 40px;
+}
+
+#Ejercicio3 {
+    position: absolute;
+    top: 420px;
+    left: 720px;
+    width: 100px;
+    height: 40px;
+}
+
+#Ejercicio4 {
+    position: absolute;
+    top: 490px;
+    left: 720px;
+    width: 100px;
+    height: 40px;
+}
+
+#Ejercicio5 {
+    position: absolute;
+    top: 280px;
+    left: 920px;
+    width: 100px;
+    height: 40px;
+}
+
+#Ejercicio6 {
+    position: absolute;
+    top: 350px;
+    left: 920px;
+    width: 100px;
+    height: 40px;
+}
+
+#Ejercicio7 {
+    position: absolute;
+    top: 420px;
+    left: 920px;
+    width: 100px;
+    height: 40px;
+}
+
+#Ejercicio8 {
+    position: absolute;
+    top: 490px;
+    left: 920px;
+    width: 100px;
+    height: 40px;
+}
